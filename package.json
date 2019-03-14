@@ -1,6 +1,6 @@
 {
   "name": "rajaongkir-nodejs-ax",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "NodeJS Client Library API RajaOngkir",
   "main": "index.js",
   "scripts": {
